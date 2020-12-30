@@ -1,5 +1,6 @@
 # Animal Emoji DNA
-Generate a DNA string of two random animal emoji each time your terminal starts, like this adorable koala-bear DNA ![](https://github.com/katiesaund/emoji_DNA/blob/master/img/whale_crab.png)
+Generate a DNA string of two random animal emoji each time your terminal starts, like this adorable whale-crab DNA. 
+![](https://github.com/katiesaund/emoji_DNA/blob/master/img/whale_crab.png)
 
 To use emoji_dna.sh:  
 1) Download emoji_dna.sh  
